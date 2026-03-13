@@ -44,7 +44,7 @@
 		<!-- Hero Visual -->
 		<div class="lg:col-span-5 relative mt-12 lg:mt-0 fade-up delay-200" use:inview>
 			<div class="relative aspect-[4/5] md:aspect-auto md:h-[600px] w-full rounded-2xl bg-cream-dark overflow-hidden">
-				<img src="/images/hero-app.webp" alt="Neural Link App Interface" class="w-full h-full object-cover object-top mix-blend-darken" />
+				<img src="/images/hero-app.webp" alt="Neural Link App Interface" class="w-full h-full object-contain object-top mix-blend-darken" />
 			</div>
 
 			<!-- Video Thumbnail Overlay -->
